@@ -1,0 +1,13 @@
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Positions of the tires and the boundary between a vehicle and its shadow. \emph {Reprinted from} Iwasaki and Itoyama (2006)}}{5}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Binary representation of a vehicle. \emph { Reprinted from Yung and Lai (1998)}}}{6}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Generalized Deformable Model. \emph { Reprinted from Yung and Lai (1998)}}}{6}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Camera Model. \emph { Reprinted from} Yung and Lai (1998)}}{7}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Haar-like features for shadow detection.\emph { Reprinted from} Wang and Zhang (1998)}}{8}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Grayscale frame}}{26}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Frame after absolute differencing}}{27}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Video frame after dilation and erosion}}{27}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Filled contours of the frame}}{27}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Convex hulls of the contours}}{28}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Binary image of current frame blobs after filtering non-required blobs}}{28}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Blobs masked on the original frame}}{28}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Tracked vehicles after implementation of matching algorithm}}{29}

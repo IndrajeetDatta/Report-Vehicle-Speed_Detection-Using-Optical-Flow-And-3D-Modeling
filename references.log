@@ -1,0 +1,22 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdftex 2015.10.8)  22 OCT 2015 12:25
+entering extended mode
+**"C:/Users/Indrajeet Datta/Documents/UG-Proposal/references.bib"
+("C:/Users/Indrajeet Datta/Documents/UG-Proposal/references.bib"
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.6 doi={10.1007/1-4020-5261-8_
+                               16},
+? 
+! Emergency stop.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.6 doi={10.1007/1-4020-5261-8_
+                               16},
+End of file on the terminal!
+
+!  ==> Fatal error occurred, no output PDF file produced!

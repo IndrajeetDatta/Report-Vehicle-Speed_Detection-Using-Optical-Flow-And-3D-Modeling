@@ -1,0 +1,171 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citeauthoryear{%
+Dailey%
+, Cathey%
+\BCBL{}\ \BBA{} Pumrin%
+}{%
+Dailey%
+\ \protect\BOthers{.}}{%
+{\protect\APACyear{2000}}%
+}]{%
+dailey}%
+\APACinsertmetastar{%
+dailey}%
+Dailey, D.%
+, Cathey, F.%
+\BCBL{}\ \BBA{} Pumrin, S.%
+%
+\newblock{}\BBOP{}2000\BBCP{}.
+\newblock{}\BBOQ{}An algorithm to estimate mean traffic speed using
+  uncalibrated cameras.\BBCQ{}
+\newblock{}\Bem{IEEE Transactions on Intelligent Transportation Systems,},
+  \Bem{1}(2), 98-107.
+
+\bibitem[\protect\citeauthoryear{%
+Horn%
+\ \BBA{} Schunck%
+}{%
+Horn%
+\ \BBA{} Schunck%
+}{%
+{\protect\APACyear{1981}}%
+}]{%
+horn}%
+\APACinsertmetastar{%
+horn}%
+Horn, B.~K.%
+\BCBT{}\ \BBA{} Schunck, B.~G.%
+%
+\newblock{}\BBOP{}1981\BBCP{}.
+\newblock{}\BBOQ{}Determining optical flow.\BBCQ{}
+\newblock{}\BIn{} \Bem{1981 technical symposium east}\ (\BPGS\ 319--331).
+\newblock{}
+
+\bibitem[\protect\citeauthoryear{%
+Iwasaki%
+\ \BBA{} Itoyama%
+}{%
+Iwasaki%
+\ \BBA{} Itoyama%
+}{%
+{\protect\APACyear{2006}}%
+}]{%
+itoyama}%
+\APACinsertmetastar{%
+itoyama}%
+Iwasaki, Y.%
+\BCBT{}\ \BBA{} Itoyama, H.%
+%
+\newblock{}\BBOP{}2006\BBCP{}.
+\newblock{}\BBOQ{}Real-time vehicle detection using information of shadows
+  underneath vehicles.\BBCQ{}
+\newblock{}\BIn{} K.~Elleithy, T.~Sobh, A.~Mahmood, M.~Iskander\BCBL{}\ \BBA{}
+  M.~Karim\ (\BEDS), \Bem{Advances in computer, information, and systems
+  sciences, and engineering}\ (\BPG\ 94-98).
+\newblock{}Springer Netherlands.
+
+\bibitem[\protect\citeauthoryear{%
+Jhumat%
+}{%
+Jhumat%
+}{%
+{\protect\APACyear{2014}}%
+}]{%
+jhumat}%
+\APACinsertmetastar{%
+jhumat}%
+Jhumat, S.%
+%
+\newblock{}\BBOP{}2014\BBCP{}.
+\newblock{}\BBOQ{}Vehicle speed estimation in accident prone areas using image
+  processing.\BBCQ{}
+\newblock{}\Bem{International Journal of Advanced Research and Communication
+  Engineering}, \Bem{3}(5).
+
+\bibitem[\protect\citeauthoryear{%
+Lucas%
+, Kanade%
+\BCBL{}\ \protect\BOthers{.}}{%
+Lucas%
+\ \protect\BOthers{.}}{%
+{\protect\APACyear{1981}}%
+}]{%
+lucas}%
+\APACinsertmetastar{%
+lucas}%
+Lucas, B.~D.%
+, Kanade, T.%
+\BCBL{}\ \BOthersPeriod{.}%
+\newblock{}\BBOP{}1981\BBCP{}.
+\newblock{}\BBOQ{}An iterative image registration technique with an application
+  to stereo vision.\BBCQ{}
+\newblock{}\BIn{} \Bem{International joint conference on artificial
+  intelligence}\ (\BVOL~81, \BPGS\ 674--679).
+\newblock{}
+
+\bibitem[\protect\citeauthoryear{%
+Wang%
+\ \BBA{} Zhang%
+}{%
+Wang%
+\ \BBA{} Zhang%
+}{%
+{\protect\APACyear{2014}}%
+}]{%
+wang}%
+\APACinsertmetastar{%
+wang}%
+Wang, H.%
+\BCBT{}\ \BBA{} Zhang, H.%
+%
+\newblock{}\BBOP{}2014\BBCP{}.
+\newblock{}\BBOQ{}A hybrid method of vehicle detection based on computer vision
+  for intelligent transportation system.\BBCQ{}
+\newblock{}\Bem{International Journal of Multimedia and Ubiqitous Engineering},
+  \Bem{9}(6), 105-118.
+
+\bibitem[\protect\citeauthoryear{%
+Yung%
+\ \BBA{} Lai%
+}{%
+Yung%
+\ \BBA{} Lai%
+}{%
+{\protect\APACyear{1998}}%
+}]{%
+yung}%
+\APACinsertmetastar{%
+yung}%
+Yung, N.%
+\BCBT{}\ \BBA{} Lai, A.%
+%
+\newblock{}\BBOP{}1998, May\BBCP{}.
+\newblock{}\BBOQ{}Detection of vehicle occlusion using a generalized deformable
+  model.\BBCQ{}
+\newblock{}\BIn{} \Bem{Proceedings of the 1998 ieee international symposium on
+  circuits and systems. (iscas)}\ (\BVOL~4, \BPG\ 154-157 vol.4).
+\newblock{}
+
+\bibitem[\protect\citeauthoryear{%
+Zhou%
+, Gao%
+\BCBL{}\ \BBA{} Zhang%
+}{%
+Zhou%
+\ \protect\BOthers{.}}{%
+{\protect\APACyear{2007}}%
+}]{%
+jie}%
+\APACinsertmetastar{%
+jie}%
+Zhou, J.%
+, Gao, D.%
+\BCBL{}\ \BBA{} Zhang, D.%
+%
+\newblock{}\BBOP{}2007, Jan\BBCP{}.
+\newblock{}\BBOQ{}Moving vehicle detection for automatic traffic
+  monitoring.\BBCQ{}
+\newblock{}\Bem{IEEE Transactions on Vehicular Technology}, \Bem{56}(1), 51-59.
+
+\end{thebibliography}

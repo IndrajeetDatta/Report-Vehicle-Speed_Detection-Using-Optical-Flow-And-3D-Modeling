@@ -1,0 +1,105 @@
+%======================= FRONT MATTER =======================
+
+%%% In this file edit only the line with **XXX**
+%%% Forexample
+%%% **TITLE OF YOUR PROJECT** replace with LANE DETECTION
+%%% **Your Full Name** replace with Catherine Zetajones
+%%% **Your Field of Study** replace with Information and Communication Technology
+
+%======================= COVER PAGE =======================
+\newpage
+\pagestyle{plain}
+\pagenumbering{roman}
+\setcounter{page}{1}
+\addcontentsline{toc}{section}{Title Page}
+\setlength{\textheight}{230mm}
+\setlength{\voffset}{10mm}
+\vskip -5em
+
+\begin{center}
+	{		\singlespace \uppercase{\bf 
+	
+	Vehicle speed detection using computer vision
+	
+	} \par	}
+	\vskip 2em
+  {	\lineskip 1.5em
+		\begin{tabular}[t]{c} by\\ \\ 
+		
+		Indrajeet Datta
+		
+		\end{tabular}\par
+	}
+	\vskip 5.6em
+	\singlespace 
+	A project submitted in partial fulfillment of the requirements for the\\
+	degree of Bachelor of Science in Engineering in\\
+	
+	Information and Communication Technology
+
+\vskip 5em
+	{
+		\singlespace
+		\begin{center}
+			\begin{tabular}{rl}
+				\\[-1em]
+				Examination Committee:	& 
+				
+				Dr. Matthew Dailey
+				
+				(Chairperson) 
+				\\[-0.8em]							& 
+				
+				Dr. Mongkol Ekpanyapong 
+				
+				\\[-0.8em]\\\\
+		           									
+		
+				Nationality: 						& 
+				
+				Indian
+				
+				\\[-0.8em]\\
+
+			\end{tabular}
+		\end{center}
+
+		\vskip 5.0em
+		%\centerline{}
+		%\vskip 2em
+	}
+
+	\singlespace 	Asian Institute of Technology\\
+	
+								School of Engineering and Technology\\
+								
+								Thailand\\
+
+								September 2015
+
+\end{center}
+\vfill
+
+%======================= Table of Contents =========================
+\setlength{\parskip}{0pt} 
+\newpage
+\addcontentsline{toc}{section}{Table of Contents}
+\tableofcontents
+
+%===================== List of Figures ======================
+\newpage
+\addcontentsline{toc}{section}{List of Figures}
+\listoffigures
+
+%===================== List of Tables ======================
+\newpage
+\addcontentsline{toc}{section}{List of Tables}
+\listoftables
+
+\setlength{\parskip}{12pt}
+
+\small
+
+\pagenumbering{arabic}
+\setlength{\headheight}{12pt}
+\pagestyle{plain}

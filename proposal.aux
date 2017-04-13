@@ -1,0 +1,87 @@
+\relax 
+\@input{frontmatter.aux}
+\@writefile{toc}{\contentsline {chapter}{\numberline {1} Introduction}{2}}
+\newlabel{introduction}{{1}{2}}
+\@writefile{toc}{\contentsline {section}{\numberline {1.1}Background}{2}}
+\@writefile{toc}{\contentsline {section}{\numberline {1.2}Problem Statement}{3}}
+\@writefile{toc}{\contentsline {section}{\numberline {1.3}Objectives}{3}}
+\@writefile{toc}{\contentsline {section}{\numberline {1.4}Limitations and scope}{4}}
+\citation{itoyama}
+\citation{jie}
+\citation{yung}
+\@writefile{toc}{\contentsline {chapter}{\numberline {2} Literature Review}{5}}
+\newlabel{literature}{{2}{5}}
+\@writefile{toc}{\contentsline {section}{\numberline {2.1}Vehicle detection}{5}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2.1}{\ignorespaces Positions of the tires and the boundary between a vehicle and its shadow. \emph  {Reprinted from} Iwasaki and Itoyama (2006)}}{5}}
+\newlabel{fig:cap1}{{2.1}{5}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2.2}{\ignorespaces Binary representation of a vehicle. \emph  { Reprinted from Yung and Lai (1998)}}}{6}}
+\newlabel{fig:cap1}{{2.2}{6}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2.3}{\ignorespaces Generalized Deformable Model. \emph  { Reprinted from Yung and Lai (1998)}}}{6}}
+\newlabel{fig:cap1}{{2.3}{6}}
+\citation{wang}
+\citation{dailey}
+\@writefile{lof}{\contentsline {figure}{\numberline {2.4}{\ignorespaces Camera Model. \emph  { Reprinted from} Yung and Lai (1998)}}{7}}
+\newlabel{fig:cap1}{{2.4}{7}}
+\citation{jhumat}
+\@writefile{lof}{\contentsline {figure}{\numberline {2.5}{\ignorespaces Haar-like features for shadow detection.\emph  { Reprinted from} Wang and Zhang (1998)}}{8}}
+\newlabel{fig:cap1}{{2.5}{8}}
+\@writefile{toc}{\contentsline {section}{\numberline {2.2}Vehicle speed estimation}{8}}
+\citation{horn}
+\@writefile{toc}{\contentsline {section}{\numberline {2.3}Optical flow algorithms}{9}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.3.1}Horn and Schunck method}{9}}
+\citation{lucas}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.3.2}Lucas and Kanade method}{11}}
+\@writefile{toc}{\contentsline {chapter}{\numberline {3} Methodology}{12}}
+\newlabel{methodology}{{3}{12}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.1}System Overview}{12}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.2}System Design}{12}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.3}Background Subtraction through absolute difference and thesholding}{13}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.4}Elimination of noise from the thresholded image through morphological operations}{14}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.5}Contour detection}{14}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.5.1}Polygon Approximation}{15}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.6}\texttt  {Blob} Class}{15}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.7}Track class}{17}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.8}Matching Algorithm}{18}}
+\@writefile{loa}{\contentsline {algorithm}{\numberline {1}{\ignorespaces Matching Algorithm}}{19}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.9}Image to ground plane transformation}{20}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.10}Regression Analysis}{20}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.10.1}Linear Regression Analysis}{21}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {3.10.1.1}Linear model estimation through least-square minimization}{22}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.10.2}Non-linear Regression Analysis}{22}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {3.10.2.1}Non-linear model estimation}{22}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.10.3}Levenberg-Marquardt Algorithm}{23}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.11}3D modeling of a cuboid around the vehicle}{24}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.11.1}Initial guess of the cuboid}{24}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.11.2}Refinement using Levenberg Marquardt algorithm for least squares minimization}{24}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.11.3}Real world speed estimation}{25}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.12}Evaluation Plan}{25}}
+\@writefile{toc}{\contentsline {chapter}{\numberline {4} Preliminary Experiments}{26}}
+\newlabel{preliminary}{{4}{26}}
+\@writefile{toc}{\contentsline {section}{\numberline {4.1}Experimental Design}{26}}
+\@writefile{toc}{\contentsline {section}{\numberline {4.2}Result}{26}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.1}{\ignorespaces Grayscale frame}}{26}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.2}{\ignorespaces Frame after absolute differencing}}{27}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.3}{\ignorespaces Video frame after dilation and erosion}}{27}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.4}{\ignorespaces Filled contours of the frame}}{27}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.5}{\ignorespaces Convex hulls of the contours}}{28}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.6}{\ignorespaces Binary image of current frame blobs after filtering non-required blobs}}{28}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.7}{\ignorespaces Blobs masked on the original frame}}{28}}
+\newlabel{figure:cap1}{{4.7}{28}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.8}{\ignorespaces Tracked vehicles after implementation of matching algorithm}}{29}}
+\newlabel{fig:cap1}{{4.8}{29}}
+\@writefile{toc}{\contentsline {section}{\numberline {4.3}Evaluation and Discussion}{29}}
+\bibstyle{apacite}
+\bibdata{references}
+\@writefile{toc}{\contentsline {chapter}{\numberline {5} Work Plan}{30}}
+\newlabel{planning}{{5}{30}}
+\@writefile{toc}{\contentsline {section}{\numberline {5.1}Planning}{30}}
+\@writefile{toc}{\contentsline {section}{\numberline {5.2}Time Line}{30}}
+\@writefile{toc}{\contentsline {chapter}{ \hskip 4em References}{30}}
+\bibcite{dailey}{\citeauthoryear{Dailey, Cathey,{}\ \BBA{} Pumrin}{Dailey\ \BOthers{.}}{{\APACyear{2000}}}}
+\bibcite{horn}{\citeauthoryear{Horn\ \BBA{} Schunck}{Horn\ \BBA{} Schunck}{{\APACyear{1981}}}}
+\bibcite{itoyama}{\citeauthoryear{Iwasaki\ \BBA{} Itoyama}{Iwasaki\ \BBA{} Itoyama}{{\APACyear{2006}}}}
+\bibcite{jhumat}{\citeauthoryear{Jhumat}{Jhumat}{{\APACyear{2014}}}}
+\bibcite{lucas}{\citeauthoryear{Lucas, Kanade,{}\ \BOthers{.}}{Lucas\ \BOthers{.}}{{\APACyear{1981}}}}
+\bibcite{wang}{\citeauthoryear{Wang\ \BBA{} Zhang}{Wang\ \BBA{} Zhang}{{\APACyear{2014}}}}
+\bibcite{yung}{\citeauthoryear{Yung\ \BBA{} Lai}{Yung\ \BBA{} Lai}{{\APACyear{1998}}}}
+\bibcite{jie}{\citeauthoryear{Zhou, Gao,{}\ \BBA{} Zhang}{Zhou\ \BOthers{.}}{{\APACyear{2007}}}}
